@@ -22,7 +22,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(/images/logo.jpg);
+    background-image: url(/images/bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -249,7 +249,7 @@ form btn2{
 /* ------------------- for mobile devices ------------------------ */
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/308dfbf4832ab7730ac49ee980b94267.jpg);
+        background-image: url(images/mobileBackground.jpg);
     }
 
     .header-text{
