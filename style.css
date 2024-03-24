@@ -248,6 +248,9 @@ form btn2{
 
 /* ------------------- for mobile devices ------------------------ */
 @media only screen and (max-width: 600px){
+    #header{
+        background-image: url(images/mobileBackground.jpg);
+    }
 
     .header-text{
         margin-top: 100%;
